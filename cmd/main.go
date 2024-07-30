@@ -5,8 +5,8 @@ import (
 	"github.com/joho/godotenv"
 	_ "github.com/lib/pq"
 	"log"
-	"todo-st/cmd/pkg/handler"
-	"todo-st/cmd/pkg/repository"
+	"todo-st/pkg/handler"
+	"todo-st/pkg/repository"
 )
 
 func main() {

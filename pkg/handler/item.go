@@ -3,7 +3,7 @@ package handler
 import (
 	"github.com/gin-gonic/gin"
 	"net/http"
-	"todo-st/cmd/pkg/repository"
+	"todo-st/pkg/repository"
 )
 
 type Todo struct {
